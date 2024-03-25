@@ -1,0 +1,29 @@
+
+.transaction-table {
+    width: 100%;
+    margin-top: 20px;
+    }
+    
+    .transaction-table table {
+    width: 100%;
+    border-collapse: collapse;
+    }
+    
+    .transaction-table th,
+    .transaction-table td {
+    border: 1px solid rgb(0, 0, 0);
+    padding: 8px;
+    text-align: left;
+    }
+    
+    .search-container {
+    margin-bottom: 20px;
+    }
+    
+    .search-container input {
+    padding: 8px;
+    border-radius: 4px;
+    border: 1px solid rgb(62, 62, 62);
+    width: 98%;
+    }
+    

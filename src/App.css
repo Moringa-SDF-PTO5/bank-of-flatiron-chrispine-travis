@@ -1,0 +1,19 @@
+.header {
+  position: relative;
+  background-color: blueviolet;
+  color: white;
+  font-size: 38px;
+  text-align: center;
+  margin-top: 10px;
+  height: 60px;
+  margin-bottom: 30px;
+  top:-10%;
+  }
+  
+  body {
+  padding-left: 300px;
+  margin-bottom: 40px;
+  padding-bottom: 40px;
+  }
+  
+  
