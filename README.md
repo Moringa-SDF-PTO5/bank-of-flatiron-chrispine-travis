@@ -21,6 +21,7 @@ Bank of Flatiron is a React application that displays a list of your recent bank
 . **Test server**: Visit the following route in your browser to test the server:
    ```
    http://localhost:3000/transactions
+https://bank-of-flatiron-chrispine-travis.vercel.app/
    ```
 
 
