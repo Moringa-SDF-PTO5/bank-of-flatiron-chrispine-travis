@@ -1,10 +1,10 @@
 import React from "react";
-import AccountContainer from "./components/AccountContainer";
-import AddTransactionForm from "./components/AddTransactionForm";
-import TransactionsList from "./components/TransactionList";
-import Transaction from "./components/Transaction";
-import Search from "./components/Search";
-import "./components/styles.css"; // Import the CSS file with correct syntax
+import AccountContainer from "./components/AccountContainer.js";
+import AddTransactionForm from "./components/AddTransactionForm.js";
+import TransactionsList from "./components/TransactionList.js";
+import Transaction from "./components/Transaction.js";
+import Search from "./components/Search.js";
+import { Styles } from "react"; "./components/styles.css"; // Import the CSS file with correct syntax
 
 function App() {
   return (
