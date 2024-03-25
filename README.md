@@ -28,6 +28,6 @@ https://bank-of-flatiron-chrispine-travis.vercel.app/
 ## Additional Information
 
 - Contact: [chrispine.ochieng@student.moringschool.com]
-- Demo: [Link to Demo]
+(https://bank-of-flatiron-chrispine-travis.vercel.app/)
 - Project Status:-Completed.
 - Run npm run dev on the terminal
